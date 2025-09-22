@@ -6,18 +6,18 @@
   [![邮箱](https://img.shields.io/badge/EMAIL-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2834379272@qq.com)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirty30ww)
 
-  <!-- 统计卡片（中文标题+Emoji） -->
+  <!-- Stats cards (transparent bg + blue text only) -->
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td width="50%" style="padding-right: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=thirty30ww&show_icons=true&theme=dark&title_color=22c55e&hide_border=true&locale=cn&height=180&card_width=400&custom_title=📊%20GitHub统计&rank_icon=github" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=thirty30ww&show_icons=true&theme=transparent&title_color=22c55e&text_color=3b82f6&hide_border=true&locale=cn&height=180&card_width=400&custom_title=📊%20GitHub统计&rank_icon=github" width="100%"/>
       </td>
       <td width="50%" style="padding-left: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thirty30ww&layout=compact&theme=dark&title_color=22c55e&hide_border=true&locale=cn&height=180&card_width=400&custom_title=👨‍💻%20常用语言" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thirty30ww&layout=compact&theme=transparent&title_color=22c55e&text_color=3b82f6&hide_border=true&locale=cn&height=180&card_width=400&custom_title=👨‍💻%20常用语言" width="100%"/>
       </td>
     </tr>
   </table>
 
-  <!-- 活动图（中文标题+Emoji） -->
+  <!-- Activity graph (original unchanged) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirty30ww&theme=github-dark&color=22c55e&hide_border=true&custom_title=📅%20近期贡献" width="100%" style="margin-top: 10px;"/>
 </div>
