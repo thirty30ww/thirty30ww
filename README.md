@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 打字机效果（蓝色） -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3B82F6&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing Effect">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=22A699&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing Effect">
 
   <!-- 联系按钮（蓝色+青绿） -->
   [![Email](https://img.shields.io/badge/EMAIL-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2834379272@qq.com)
@@ -13,7 +13,7 @@
   </div>
 
   <!-- 活动图（蓝色+青绿） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirty30ww&bg_color=00000000&color=3B82F6&line=22A699&hide_border=true" width="100%" style="margin-top: 5px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirty30ww&bg_color=00000000&color=3B82F6&line=22A699&hide_border=true&area=true&area_color=22A699&point=3B82F6" width="100%" style="margin-top: 5px;">
 
   <!-- 技术栈（图标保留原色） -->
   <h3>🛠 Tech Stack</h3>
