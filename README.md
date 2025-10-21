@@ -22,15 +22,6 @@
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,pinia,java,spring,mysql,redis,nodejs,docker,git,idea,webstorm" alt="Tech Stack">
   </div>
-
-  <!-- 热门项目统计 -->
-  <h3>🔥 Popular Projects</h3>
-  <a href="https://github.com/thirty30ww/prose-pulse">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=thirty30ww&repo=prose-pulse&theme=transparent&title_color=3B82F6&hide_border=true" />
-  </a>
-  <a href="https://github.com/thirty30ww/auth-matrix">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=thirty30ww&repo=auth-matrix&theme=transparent&title_color=22A699&hide_border=true" />
-  </a>
 </div>
 
 <!-- 底部波浪 -->
