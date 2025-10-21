@@ -1,5 +1,5 @@
 <!-- 顶部波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi,+I'm+Merrick&fontSize=70&fontAlign=50&fontAlignY=40&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=150&section=header&text=Hi,+I'm+Merrick&fontSize=50&fontAlign=50&fontAlignY=30&animation=twinkling" width="100%" />
 <div align="center">
   <!-- 打字机效果（蓝色） -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=22A699&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing Effect">
@@ -25,4 +25,4 @@
 </div>
 
 <!-- 底部波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22A699&height=200&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22A699&height=150&section=footer&animation=twinkling" width="100%" />
