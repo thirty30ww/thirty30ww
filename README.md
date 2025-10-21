@@ -1,3 +1,5 @@
+<!-- 顶部波浪 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi,+I'm+Merrick&fontSize=70&fontAlign=50&fontAlignY=40&animation=twinkling" width="100%" />
 <div align="center">
   <!-- 打字机效果（蓝色） -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=22A699&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing Effect">
@@ -20,4 +22,16 @@
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,pinia,java,spring,mysql,redis,nodejs,docker,git,idea,webstorm" alt="Tech Stack">
   </div>
+
+  <!-- 热门项目统计 -->
+  <h3>🔥 Popular Projects</h3>
+  <a href="https://github.com/thirty30ww/prose-pulse">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=thirty30ww&repo=prose-pulse&theme=transparent&title_color=3B82F6&hide_border=true" />
+  </a>
+  <a href="https://github.com/thirty30ww/auth-matrix">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=thirty30ww&repo=auth-matrix&theme=transparent&title_color=22A699&hide_border=true" />
+  </a>
 </div>
+
+<!-- 底部波浪 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22A699&height=200&section=footer&animation=twinkling" width="100%" />
